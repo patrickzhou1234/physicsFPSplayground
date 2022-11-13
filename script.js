@@ -1,5 +1,3 @@
-<reference path="babylon.d.ts" />
-
 const canvas = document.getElementById("babcanv"); // Get the canvas element
 const engine = new BABYLON.Engine(canvas, true);
 var createScene = function () {
